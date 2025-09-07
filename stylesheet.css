@@ -1,0 +1,93 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.body
+{
+    font-family:"Urbanist", Helvetica, Arial, sans-serif;
+}
+.container div ul li a
+{
+     color: #35404e;
+    
+}
+
+.container div ul li
+{
+    font-size: 20px;
+    
+   
+}
+.bg-div
+{
+
+   background-image: url(images/bg1.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+    
+}
+.div-1 
+{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.div-2 h1
+{  
+    font-size: 36px;
+    color: #35404e;
+    padding-top:20px ;
+    
+}
+.div-2in p
+{
+    font-size: 20px;
+    opacity: 0.8;
+    padding-right: 40px;
+}
+.div-inner img
+{
+    width: 90px;
+    height: 90px;
+    background-color: #4786ee;
+    padding: 10px;
+    margin-bottom: 40px;
+    border-radius: 4px 4px 4px 4px;
+}
+.div-inner h1
+{
+    font-size:30px; 
+    color: #35404e;
+}
+.div-inner p
+{
+    padding-top: 40px;
+    opacity: 0.7;
+}
+
+.nine
+{
+   
+   
+    background-color: aliceblue;
+}
+.ten
+{
+    background-image:url(images/bg2.jpg) ;
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.ten p
+{
+    color:#35404e;
+}
+.ten a
+{
+    text-align: center;
+    list-style: none;
+    text-decoration: none;
+    color:#35404e;
+}
